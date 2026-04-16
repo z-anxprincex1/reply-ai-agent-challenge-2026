@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+reply-agentic/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local data and generated outputs
+dataset/
+outputs/
+
+# Practice and temporary files
+.tmp/
+learn/
+*.zip
+*.log

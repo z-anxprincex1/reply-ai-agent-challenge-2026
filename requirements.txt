@@ -1,0 +1,4 @@
+pandas
+python-dotenv
+ulid-py
+langfuse>=3,<4
